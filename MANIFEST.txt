@@ -1,0 +1,4 @@
+First version of the manifest.
+foo 1.2.3
+bar 1.2.4
+baz 0.1.2
